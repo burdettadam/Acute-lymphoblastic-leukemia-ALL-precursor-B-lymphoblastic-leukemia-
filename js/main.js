@@ -6,7 +6,8 @@
 /**
  * Main AngularJS Web Application
  */
-var app = angular.module('tutorialWebApp', [
+ // Create a new module
+var app = angular.module('ALLWebApp', [
   'ngRoute'
 ]);
 
